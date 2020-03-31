@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ##################################
-export GIT_TOKEN="YOUR_GIT_TOKEN"
-export EXO_ORGANIZATIONS=" meeds-io exodev exo-addons exoplatform"
+export GIT_TOKEN="$1"
+export EXO_ORGANIZATIONS=" meeds-io exodev exo-addons exoplatform exo-samples"
 ##################################
 
 export GIT_REST_URI="https://api.github.com/orgs/"
