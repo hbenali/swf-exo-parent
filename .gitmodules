@@ -1216,3 +1216,39 @@
 [submodule "exoplatform/clientsolutions"]
 	path = exoplatform/clientsolutions
 	url = git@github.com:exoplatform/clientsolutions.git
+[submodule "exoplatform/infra-jenkins-config"]
+	path = exoplatform/infra-jenkins-config
+	url = git@github.com:exoplatform/infra-jenkins-config.git
+[submodule "exoplatform/puppet-intranet"]
+	path = exoplatform/puppet-intranet
+	url = git@github.com:exoplatform/puppet-intranet.git
+[submodule "exoplatform/oft"]
+	path = exoplatform/oft
+	url = git@github.com:exoplatform/oft.git
+[submodule "exoplatform/puppet-exo_cloud"]
+	path = exoplatform/puppet-exo_cloud
+	url = git@github.com:exoplatform/puppet-exo_cloud.git
+[submodule "exoplatform/puppet-uxpaas"]
+	path = exoplatform/puppet-uxpaas
+	url = git@github.com:exoplatform/puppet-uxpaas.git
+[submodule "exoplatform/swf-jenkins-config"]
+	path = exoplatform/swf-jenkins-config
+	url = git@github.com:exoplatform/swf-jenkins-config.git
+[submodule "exoplatform/exo-ios-certificates"]
+	path = exoplatform/exo-ios-certificates
+	url = git@github.com:exoplatform/exo-ios-certificates.git
+[submodule "exoplatform/cp-atisnetwork-ios-certificates"]
+	path = exoplatform/cp-atisnetwork-ios-certificates
+	url = git@github.com:exoplatform/cp-atisnetwork-ios-certificates.git
+[submodule "exo-samples/sample-dynamic-container"]
+	path = exo-samples/sample-dynamic-container
+	url = git@github.com:exo-samples/sample-dynamic-container.git
+[submodule "exo-samples/docs-samples"]
+	path = exo-samples/docs-samples
+	url = git@github.com:exo-samples/docs-samples.git
+[submodule "exo-samples/sample-for-SWF-3974"]
+	path = exo-samples/sample-for-SWF-3974
+	url = git@github.com:exo-samples/sample-for-SWF-3974.git
+[submodule "exo-samples/exo-ldap"]
+	path = exo-samples/exo-ldap
+	url = git@github.com:exo-samples/exo-ldap.git
