@@ -1252,3 +1252,108 @@
 [submodule "exo-samples/exo-ldap"]
 	path = exo-samples/exo-ldap
 	url = git@github.com:exo-samples/exo-ldap.git
+[submodule "exo-docker/ubuntu-jdk7"]
+	path = exo-docker/ubuntu-jdk7
+	url = git@github.com:exo-docker/ubuntu-jdk7.git
+[submodule "exo-docker/ubuntu-jdk7-exo"]
+	path = exo-docker/ubuntu-jdk7-exo
+	url = git@github.com:exo-docker/ubuntu-jdk7-exo.git
+[submodule "exo-docker/ubuntu-jdk7-exo-chat"]
+	path = exo-docker/ubuntu-jdk7-exo-chat
+	url = git@github.com:exo-docker/ubuntu-jdk7-exo-chat.git
+[submodule "exo-docker/exo-maven"]
+	path = exo-docker/exo-maven
+	url = git@github.com:exo-docker/exo-maven.git
+[submodule "exo-docker/exo-addons"]
+	path = exo-docker/exo-addons
+	url = git@github.com:exo-docker/exo-addons.git
+[submodule "exo-docker/base-jdk"]
+	path = exo-docker/base-jdk
+	url = git@github.com:exo-docker/base-jdk.git
+[submodule "exo-docker/exo-community"]
+	path = exo-docker/exo-community
+	url = git@github.com:exo-docker/exo-community.git
+[submodule "exo-docker/exo-trial"]
+	path = exo-docker/exo-trial
+	url = git@github.com:exo-docker/exo-trial.git
+[submodule "exo-docker/exo"]
+	path = exo-docker/exo
+	url = git@github.com:exo-docker/exo.git
+[submodule "exo-docker/exo-smtp"]
+	path = exo-docker/exo-smtp
+	url = git@github.com:exo-docker/exo-smtp.git
+[submodule "exo-docker/exo-ci"]
+	path = exo-docker/exo-ci
+	url = git@github.com:exo-docker/exo-ci.git
+[submodule "exo-docker/sensu"]
+	path = exo-docker/sensu
+	url = git@github.com:exo-docker/sensu.git
+[submodule "exo-docker/exo-che"]
+	path = exo-docker/exo-che
+	url = git@github.com:exo-docker/exo-che.git
+[submodule "exo-docker/exo-elasticsearch"]
+	path = exo-docker/exo-elasticsearch
+	url = git@github.com:exo-docker/exo-elasticsearch.git
+[submodule "exo-docker/exo-jitsi-meet"]
+	path = exo-docker/exo-jitsi-meet
+	url = git@github.com:exo-docker/exo-jitsi-meet.git
+[submodule "exo-docker/exo-release"]
+	path = exo-docker/exo-release
+	url = git@github.com:exo-docker/exo-release.git
+[submodule "exo-docker/exo-oracle"]
+	path = exo-docker/exo-oracle
+	url = git@github.com:exo-docker/exo-oracle.git
+[submodule "exo-docker/exo-sqlserver"]
+	path = exo-docker/exo-sqlserver
+	url = git@github.com:exo-docker/exo-sqlserver.git
+[submodule "exo-docker/wordpress"]
+	path = exo-docker/wordpress
+	url = git@github.com:exo-docker/wordpress.git
+[submodule "exo-docker/exo-nginx"]
+	path = exo-docker/exo-nginx
+	url = git@github.com:exo-docker/exo-nginx.git
+[submodule "exo-docker/jmxtrans"]
+	path = exo-docker/jmxtrans
+	url = git@github.com:exo-docker/jmxtrans.git
+[submodule "exo-docker/exo-chat-server"]
+	path = exo-docker/exo-chat-server
+	url = git@github.com:exo-docker/exo-chat-server.git
+[submodule "exo-docker/jmeter"]
+	path = exo-docker/jmeter
+	url = git@github.com:exo-docker/jmeter.git
+[submodule "exo-docker/exo-mysqltuner"]
+	path = exo-docker/exo-mysqltuner
+	url = git@github.com:exo-docker/exo-mysqltuner.git
+[submodule "exo-docker/docker-openldap"]
+	path = exo-docker/docker-openldap
+	url = git@github.com:exo-docker/docker-openldap.git
+[submodule "exo-docker/ubuntu"]
+	path = exo-docker/ubuntu
+	url = git@github.com:exo-docker/ubuntu.git
+[submodule "exo-docker/jdk"]
+	path = exo-docker/jdk
+	url = git@github.com:exo-docker/jdk.git
+[submodule "exo-docker/exo-coturn"]
+	path = exo-docker/exo-coturn
+	url = git@github.com:exo-docker/exo-coturn.git
+[submodule "exo-docker/exo-backstopjs"]
+	path = exo-docker/exo-backstopjs
+	url = git@github.com:exo-docker/exo-backstopjs.git
+[submodule "exo-docker/lightweightCMISserver"]
+	path = exo-docker/lightweightCMISserver
+	url = git@github.com:exo-docker/lightweightCMISserver.git
+[submodule "exo-docker/jira"]
+	path = exo-docker/jira
+	url = git@github.com:exo-docker/jira.git
+[submodule "exo-docker/cmis-server"]
+	path = exo-docker/cmis-server
+	url = git@github.com:exo-docker/cmis-server.git
+[submodule "exo-docker/exo-documentserver"]
+	path = exo-docker/exo-documentserver
+	url = git@github.com:exo-docker/exo-documentserver.git
+[submodule "exo-docker/exo-documentserver-ie"]
+	path = exo-docker/exo-documentserver-ie
+	url = git@github.com:exo-docker/exo-documentserver-ie.git
+[submodule "exo-docker/squash-tm"]
+	path = exo-docker/squash-tm
+	url = git@github.com:exo-docker/squash-tm.git

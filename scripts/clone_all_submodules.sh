@@ -2,7 +2,7 @@
 
 ##################################
 export GIT_TOKEN="$1"
-export EXO_ORGANIZATIONS=" meeds-io exodev exo-addons exoplatform exo-samples"
+export EXO_ORGANIZATIONS="meeds-io exodev exo-addons exoplatform exo-samples exo-docker"
 ##################################
 
 export GIT_REST_URI="https://api.github.com/orgs/"
