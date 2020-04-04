@@ -1357,3 +1357,6 @@
 [submodule "exo-docker/squash-tm"]
 	path = exo-docker/squash-tm
 	url = git@github.com:exo-docker/squash-tm.git
+[submodule "exoplatform/cp-weishardt"]
+	path = exoplatform/cp-weishardt
+	url = git@github.com:exoplatform/cp-weishardt.git
